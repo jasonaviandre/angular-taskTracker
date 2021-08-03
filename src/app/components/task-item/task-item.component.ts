@@ -14,6 +14,7 @@ export class TaskItemComponent implements OnInit {
   faTimes = faTimes;
 
   constructor() { 
+    
   }
 
   ngOnInit(): void {
